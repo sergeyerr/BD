@@ -1,0 +1,7 @@
+C:\Users\Сергей\Desktop\jojo\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Сергей\Desktop\jojo\BD\BD\bin\Debug\BD.exe
+C:\Users\Сергей\Desktop\jojo\BD\BD\bin\Debug\BD.pdb
+C:\Users\Сергей\Desktop\jojo\BD\BD\obj\Debug\BD.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\jojo\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\jojo\BD\BD\obj\Debug\BD.exe
+C:\Users\Сергей\Desktop\jojo\BD\BD\obj\Debug\BD.pdb
